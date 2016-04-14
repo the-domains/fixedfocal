@@ -1,7 +1,20 @@
 name: fixedfocal
 favicon: null
-layout_spectrum: 0.8635159381665289
-typography_spectrum: 0.0973665879573673
+layout_spectrum: 0.00206
+typography_spectrum: 0.02706
+title: fixedfocal
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
@@ -16,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4157853170763701
-  lightness: 0.4194928528741002
-  saturation: 0.26245941151864827
-  rhythmicContrast: 0.8872300756629556
+    - '#030303'
+    - '#ffffff'
+    - '#d8d8d8'
+    - '#7c7c7c'
+    - '#353535'
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
