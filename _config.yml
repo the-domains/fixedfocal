@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: other fixed4cal
-    url: 'http://fixed4cal.com'
-    type: external
 favicon: null
 collections:
   - index:
