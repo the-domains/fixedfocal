@@ -1,4 +1,3 @@
-layout_spectrum: 0.08360561146400869
 typography_spectrum: 0.5379442253615707
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.08360561146400869
 analytics:
   google: null
   facebook: null
@@ -42,4 +42,7 @@ collections:
       format: rss
       number: 10
 title: fixed4cal
+description: >-
+  Alex Yi is a photographer ,Nikon shooter and Kimchi enthusiast living in
+  Melbourne.
 purpose: []
