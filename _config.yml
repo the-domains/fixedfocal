@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: alex Yi
+  email: alex@fixed4cal.com
 name: fixed4cal
 cta:
   domain: null
